@@ -5,9 +5,9 @@
 
 Hey, I'm **Dhruv!**
 
-I build backend systems and APIs to help make data-drivendecisions.
+I build backend systems and APIs to support data-driven decision-making.
 
-I possess enterprise-level experience during my time at UPS on the Payroll Technology team (intern → Co-Op). 
+I possess enterprise-level experience during my time at UPS on the Payroll Technology team (intern → Co-Op).
 
 Currently building real infrastructure projects: a location intelligence platform based on public data like Crime, Employment, Infrastructure and more!
 
