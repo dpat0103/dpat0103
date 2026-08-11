@@ -5,11 +5,13 @@
 
 Hey, I'm **Dhruv!**
 
-I build backend systems and APIs. I possess enterprise-level experience during my time at UPS on the Payroll Technology team (intern → Co-Op). 
+I build backend systems and APIs to help make data-drivendecisions.
 
-Currently building real infrastructure projects: a clinical drug interaction API and an ML-assisted car pricing engine.
+I possess enterprise-level experience during my time at UPS on the Payroll Technology team (intern → Co-Op). 
 
-Outside of code: Video Games, Cars, live trading card breaks on WhatNot, and I'm building custom tooling for that side of my life too!
+Currently building real infrastructure projects: a location intelligence platform based on public data like Crime, Employment, Infrastructure and more!
+
+Outside of code: Video Games, Cars, Traveling, Music!
 
 <br>
 
@@ -53,9 +55,9 @@ Real production users with over 550+ Rutgers users. Students get notified the se
 </td>
 <td width="50%" valign="top">
 
-**🃏 WhatNot Sold** *(in progress)*
+**🃏 CivicLens** *(in progress)*
 
-Custom software for my live card break business (profit calculators, EV trackers, tailored customer dashboards).
+Turning fragmented government data into a single, readable picture of how a place is changing. Helps anyone who wants to learn more about where they live or plan to live!
 
 </td>
 </tr>
