@@ -1,17 +1,14 @@
-
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6366F1&width=500&lines=FastAPI+%C2%B7+PostgreSQL+%C2%B7+GCP+%C2%B7+Docker+%C2%B7+GitHub+Actions" alt="stack" />
 
-Hey, I'm **Dhruv!**
+Hey, I'm **Dhruv**!
 
-I build backend systems and APIs to support data-driven decision-making.
+I build backend systems and APIs that support data-driven decision making.
 
-I possess enterprise-level experience during my time at UPS on the Payroll Technology team (intern → Co-Op).
+Two terms at UPS on the Payroll Technology team, first as an intern and then as a co-op, working on enterprise payroll infrastructure.
 
-Currently building real infrastructure projects: a location intelligence platform based on public data like Crime, Employment, Infrastructure and more!
+Currently building a location intelligence platform on public data: crime, employment, infrastructure, and more.
 
-Outside of code: Video Games, Cars, Traveling, Music!
+Outside of code: video games, cars, traveling, music.
 
 <br>
 
@@ -23,22 +20,22 @@ Outside of code: Video Games, Cars, Traveling, Music!
 
 **🔬 RxInteract**
 
-Detailed drug interaction checker REST API for healthcare infrastructure.
+Drug interaction checker REST API for healthcare infrastructure.
 
 `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `OpenFDA`
 
-Pivoted mid-build when RxNorm's DDI API was discontinued in early 2024, redesigned the schema, and sourced interaction data from modern OpenFDA label fields instead. Schema: `drugs` · `drug_labels` · `drug_interactions`.
+Pivoted mid-build when RxNorm's drug interaction API was discontinued in early 2024. Redesigned the schema and sourced interaction data from OpenFDA label fields instead. Tables: `drugs`, `drug_labels`, `drug_interactions`.
 
 </td>
 <td width="50%" valign="top">
 
 **🚗 DealSense**
 
- Used car pricing API. Helps skip the fluff and gets you the number you are looking for!
+Used car pricing API that skips the fluff and returns the number you're looking for.
 
 `FastAPI` `PostgreSQL` `APScheduler` `Cloud Run` `Marketcheck API`
 
-Built around a problem I actually care about: knowing whether a used car listing is a real deal or not. Scheduled ingestion, price delta modeling, and a clean query interface.
+Built around a problem I actually care about: knowing whether a used car listing is a real deal. Scheduled ingestion, price delta modeling, and a clean query interface.
 
 </td>
 </tr>
@@ -47,17 +44,22 @@ Built around a problem I actually care about: knowing whether a used car listing
 
 **🎓 RU SnipeZ**
 
-A high-availability Rutgers scheduling solution.
+Course seat monitor for Rutgers students.
 
-`Flask` `SQLite` `Selenium` `BeautifulSoup4` `JSON`
+`Flask` `SQLite` `Selenium` `BeautifulSoup4`
 
-Real production users with over 550+ Rutgers users. Students get notified the second a seat opens in a full class of their choice, tracking over 25,000+ course sections offered each semester at Rutgers.
+550+ real users. Students get notified the second a seat opens in a full class, across 25,000+ course sections tracked each semester.
+
 </td>
 <td width="50%" valign="top">
 
-**🃏 CivicLens** *(in progress)*
+**🗺 CivicLens** *(in progress)*
 
-Turning fragmented government data into a single, readable picture of how a place is changing. Helps anyone who wants to learn more about where they live or plan to live!
+Turns fragmented government data into a single readable picture of how a place is changing.
+
+`Next.js` `TypeScript` `FastAPI` `PostgreSQL`
+
+Built for anyone who wants to understand where they live or where they're thinking of moving.
 
 </td>
 </tr>
@@ -86,8 +88,8 @@ Turning fragmented government data into a single, readable picture of how a plac
 | | |
 |:--|:--|
 | 🎓 | B.A. Computer Science · Rutgers University · May 2025 · GPA 3.7 |
-| 💼 | SWE Co-Op @ UPS — Payroll Technology |
-| 💼 | SWE Intern @ UPS — Payroll Technology |
+| 💼 | SWE Co-Op @ UPS · Payroll Technology |
+| 💼 | SWE Intern @ UPS · Payroll Technology |
 | 📍 | New Jersey · Open to hybrid or remote |
 | 👀 | Targeting Backend · Data Engineering · Cloud/DevOps roles |
 
