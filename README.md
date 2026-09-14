@@ -2,7 +2,7 @@
 
 # Hey, I'm Dhruv 👋
 
-### Software Engineer · Backend · Platform · Data Systems
+###  Engineer · Backend · Platform · Data Systems
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Backend+Systems+%C2%B7+APIs+%C2%B7+Data+Pipelines+%C2%B7+Cloud;Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+GCP+%C2%B7+AWS;Building+software+for+real+operational+problems" alt="Typing SVG" />
 
