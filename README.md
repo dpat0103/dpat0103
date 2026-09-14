@@ -56,6 +56,10 @@ Backend monitoring system designed to detect failures across external API integr
 `Celery Beat` → `Redis` → `Celery Workers`
 `Prometheus` → `Grafana`
 
+**Live demo:** [integrationops.onrender.com](https://integrationops.onrender.com/) 
+
+**Source:** [github.com/dpat0103/IntegrationOps](https://github.com/dpat0103/IntegrationOps)
+
 **Stack**
 
 `Python` `FastAPI` `Celery` `PostgreSQL` `Redis` `Docker` `Prometheus` `Grafana`
@@ -67,22 +71,25 @@ Backend monitoring system designed to detect failures across external API integr
 
 **Rutgers Course Availability Monitor**
 
-Built and operated a course monitoring system used by **550+ Rutgers students**.
+Built and operated a course monitoring system used by **550+ Rutgers students** for ~18 months, deployed on AWS EC2. Rebuilt from scratch as a live web app and Discord bot covering all three Rutgers campuses.
 
 **Highlights**
 
-* Tracks **25,000+ course sections**
-* Delivers sub-second availability alerts
-* Automated course extraction and ETL workflows
-* Deployed and maintained on AWS EC2
-* Supported production users for ~18 months
-* Independently handled uptime, failures, and user issues
+* Tracks **16,371 course sections** across New Brunswick, Newark, and Camden
+* Detects openings via a set-difference poll against the university's own registration API, then delivers an alert with the WebReg registration link pre-filled
+* Reverse-engineered undocumented university API behavior, catching a real data bug in the process
+* Rebuilt around a serverless architecture: static catalogue + edge-cached API proxy, no server to maintain
+* Independently handled uptime, failures, and user support for the original deployment
 
 Built because registering for a full Rutgers course shouldn't require refreshing WebReg all day.
 
+**Live demo:** [ru-snipez.vercel.app](https://ru-snipez.vercel.app) 
+
+**Source:** [github.com/dpat0103/RUSnipeZ](https://github.com/dpat0103/RUSnipeZ)
+
 **Stack**
 
-`Python` `Flask` `Selenium` `BeautifulSoup` `SQLite` `AWS EC2`
+`Python` `AWS EC2` `JavaScript` `Vercel Edge Functions` `GitHub Actions` `discord.py`
 
 </td>
 </tr>
